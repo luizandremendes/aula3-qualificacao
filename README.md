@@ -1,2 +1,5 @@
 # aula3-qualificacao
-Meu primeiro repositório
+
+Este projeto faz parte da minha primeira pesquisa sobre data sciense.
+
+ ## Subtítulo
